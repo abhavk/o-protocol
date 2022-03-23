@@ -27,3 +27,9 @@ Send transactions to this node and view output:
 {<0.84.0>,{#{1 => 1}}}
 
 ```
+
+## Future updates:
+
+- Need to change centralized ID server to Public/Private Key cryptography for identifying processes
+- Need to implement node behaviour
+- Clear separation between protocol and strategy
